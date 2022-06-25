@@ -33,3 +33,5 @@ functions_module.richtext = function(chat_gui)
 		ch.TextLabel.RichText = true
 	end)
 end
+
+return functions_module
